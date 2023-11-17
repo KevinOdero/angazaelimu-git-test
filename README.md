@@ -6,3 +6,4 @@ There's still plenty to learn.
 
 One more important item to learn in Git is Fetching. 
  
+how is it
